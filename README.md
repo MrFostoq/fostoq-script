@@ -1,5 +1,5 @@
 # fostoq-scripts
-This repo is provide by Abd Al-Rahman Monther
+This repo was provided by Abd Al-Rahman Monther
 
 It is intended for uploading scripts that aim to download and install servers.
 
