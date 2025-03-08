@@ -5,4 +5,4 @@ It is intended for uploading scripts that aim to download and install servers.
 
 It is open source, you can upload any script 
 
-You can upload any text that achieves the same purpose.
+You can upload any script that achieves the same purpose.
